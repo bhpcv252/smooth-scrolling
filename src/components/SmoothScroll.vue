@@ -17,7 +17,7 @@ const SmoothScroll = {
       scrollSpeed: 0,
       pageScrollSpeed: 0,
       pageScrollPosition: 0,
-      wheelMaxSpeed: 300,
+      wheelMaxSpeed: 840,
       touchMaxSpeed: 1500,
       scrollLasting: 0.85,
       endSmoothness: 4,
